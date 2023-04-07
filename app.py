@@ -1,2 +1,0 @@
-import astar
-print("Hello")
